@@ -10,7 +10,7 @@ Contains:
 
 
 Get the website up & running 
-  1. Clone the repo
+  1. Clone the repo (master branch)
   2. npm install
   3. npm run dev
   4. go to register page and create a user
